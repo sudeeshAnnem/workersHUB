@@ -290,7 +290,7 @@ $row=mysqli_fetch_array($query1);
     <div class="pull-right hidden-xs">
       <b>Version</b> 1.0.0
     </div>
-    <strong>Copyright &copy; 2017-2018 </strong> All rights
+    <strong>Copyright &copy; 2022-2023 </strong> All rights
     reserved.
   </footer>
 
