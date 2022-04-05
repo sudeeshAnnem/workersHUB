@@ -36,7 +36,7 @@ if(isset($_POST['post']))
             if($query)
             {
                   echo '<script type="text/javascript">'; 
-                  echo 'alert("Youhave been successfully registered!!");'; 
+                  echo 'alert("You have been successfully registered!!");'; 
                   echo 'window.location.href = "login.html";';
                   echo '</script>';
             }

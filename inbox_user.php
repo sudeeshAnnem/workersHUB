@@ -146,7 +146,7 @@ $count1=mysqli_num_rows($query3);
       <!-- /.search form -->
       <!-- sidebar menu: : style can be found in sidebar.less -->
       <ul class="sidebar-menu" data-widget="tree">
-        <li class="header">MAIN NAVIGATION</li>
+        <li class="header">MAIN NAVIGATION</li>    
       <li class="active treeview"> 
           <a href="#">
             <i class="fa fa-envelope"></i> <span>Mailbox</span>
@@ -282,7 +282,7 @@ $count1=mysqli_num_rows($query3);
     <div class="pull-right hidden-xs">
       <b>Version</b> 1.0.0
     </div>
-    <strong>Copyright &copy; 2022-2023.</strong> All rights
+    <strong>Copyright &copy; 2017-2018.</strong> All rights
     reserved.
   </footer>
 
