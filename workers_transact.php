@@ -199,8 +199,7 @@ echo '</script>';
               <div class="form-group">
                     <textarea id="compose-textarea" name="textarea" class="form-control" style="height: 300px">
                      
-                      <p></p>
-                      <p></p>
+                      
                     </textarea>
               </div>
             </div>
